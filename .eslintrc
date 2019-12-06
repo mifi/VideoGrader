@@ -1,0 +1,17 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "env": {
+    "node": true,
+    "browser": true,
+  },
+  "rules": {
+    "no-alert": 0,
+    "no-console": 0,
+    "jsx-a11y/media-has-caption": 0,
+    "object-curly-newline": 0
+  },
+  "plugins": [
+    "react"
+  ]
+}

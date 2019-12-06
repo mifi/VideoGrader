@@ -30,3 +30,6 @@ npm start
 - Improve error feedback
 - Show loading when transcoding
 - Allow setting output file encoding options
+- [colorbalance](https://ffmpeg.org/ffmpeg-filters.html#colorbalance)
+- [unsharp](https://ffmpeg.org/ffmpeg-filters.html#unsharp)
+- [curves](https://video.stackexchange.com/questions/13104/similar-to-levels-adjustment-brightness-improvement-with-ffmpeg)

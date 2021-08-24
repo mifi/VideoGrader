@@ -8,6 +8,7 @@ const whichp = promisify(which);
 
 export default ({ cacheDir }) => {
   function getFfmpegPath() {
+    // return '/Users/mifi/Downloads/ffmpeg';
     return whichp('ffmpeg');
   }
 

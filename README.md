@@ -22,6 +22,8 @@ npm run watch
 npm start
 ```
 
+Then drag-drop a file into the window. Press <kbd>SPACE</kbd> to play/pause
+
 ## TODO
 
 - Package electron app (use electron-builder)
